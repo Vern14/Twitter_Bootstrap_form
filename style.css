@@ -1,0 +1,10 @@
+	body{background-image:url(DSC_0196.JPG); margin-right:150px;margin-left:180px; }
+		a{color:silver; }
+		h3 {padding-left:160px; }
+		#footer{ background-color:black; padding:20px; padding-bottom:5px;}
+		#testdiv{ position:relative; padding-left:160px;background-color: rgba(0,0,0,0.60); color:white;}
+		#formdiv{ }
+		.navbar-wrapper{position: relative; right:60px; bottom:-15px;}
+		.pagination{position:relative; left:230px;}
+		.hero-unit{border-radius:0px; padding:20px; font-size:14px;}
+		<!--.brand{background-image:url(ROTIA.JPG');}-->
